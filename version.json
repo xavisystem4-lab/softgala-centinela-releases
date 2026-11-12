@@ -1,0 +1,18 @@
+{
+  "producto": "SoftGala Centinela",
+  "conector": {
+    "version": "0.4.1",
+    "fecha": "2026-11-11",
+    "notas": "Modo claro/oscuro, avisos con diseño de Centinela, minimizar a segundo plano y corrección del acceso de solo lectura.",
+    "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/releases/download/conector-v0.4.1/SoftGala-Centinela-Conector.exe"
+  },
+  "proveedor": {
+    "version": "0.2.1",
+    "fecha": "2026-11-11",
+    "notas": "Usuarios del portal (crear, editar permisos, restablecer, quitar), renombrar y borrar sucursales y clientes.",
+    "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/releases/download/proveedor-v0.2.1/SoftGala-Centinela-Proveedor.exe"
+  },
+  "portal": {
+    "url": "https://softgala-centinela.netlify.app"
+  }
+}
