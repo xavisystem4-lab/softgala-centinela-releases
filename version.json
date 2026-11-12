@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.4.1",
+    "version": "0.5.0",
     "fecha": "2026-11-11",
-    "notas": "Modo claro/oscuro, avisos con diseño de Centinela, minimizar a segundo plano y corrección del acceso de solo lectura.",
+    "notas": "Productos vendidos con costo, entradas y salidas de dinero en el corte e historial de cortes y ventas a pedido desde el portal.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
