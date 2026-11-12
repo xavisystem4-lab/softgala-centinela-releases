@@ -7,9 +7,9 @@
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "fecha": "2026-11-11",
-    "notas": "Usuarios del portal (crear, editar permisos, restablecer, quitar), renombrar y borrar sucursales y clientes.",
+    "notas": "Logo del cliente: súbelo con «Logo del cliente» y aparece en su portal. Editar usuario del portal.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/proveedor/SoftGala-Centinela-Proveedor.exe"
   },
   "portal": {
