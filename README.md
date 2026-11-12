@@ -4,8 +4,8 @@ Descargas oficiales de **SoftGala Centinela** (alertas antifraude, cortes de caj
 
 | Programa | Para quién | Descarga (siempre la última versión) |
 |---|---|---|
-| **Conector** | Se instala en la PC servidor de SoftRestaurant de cada restaurante | [SoftGala-Centinela-Conector.exe](https://github.com/xavisystem4-lab/softgala-centinela-releases/releases/latest/download/SoftGala-Centinela-Conector.exe) |
-| **Panel de proveedor** | SoftGala | [SoftGala-Centinela-Proveedor.exe](https://github.com/xavisystem4-lab/softgala-centinela-releases/releases/latest/download/SoftGala-Centinela-Proveedor.exe) |
+| **Conector** | Se instala en la PC servidor de SoftRestaurant de cada restaurante | [SoftGala-Centinela-Conector.exe](https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe) |
+| **Panel de proveedor** | SoftGala | [SoftGala-Centinela-Proveedor.exe](https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/proveedor/SoftGala-Centinela-Proveedor.exe) |
 | **Portal de clientes** | Dueños y gerentes | https://softgala-centinela.netlify.app |
 
 Las apps consultan `version.json` con su botón **«Actualizar versión»**.
