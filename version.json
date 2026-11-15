@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "fecha": "2026-11-14",
-    "notas": "Monitor de ventas en tiempo real como el de SoftRestaurant (cuentas abiertas y pagadas, tipo de servicio, áreas y comensales).",
+    "notas": "Corrige el error «The process cannot access the file» al actualizar. Incluye el Monitor de ventas en tiempo real.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
