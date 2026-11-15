@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.6.4",
+    "version": "0.6.5",
     "fecha": "2026-11-14",
-    "notas": "Usa las tablas nuevas de SoftRestaurant en cuanto tenga permiso, sin reiniciar. Revisa actualizaciones cada hora.",
+    "notas": "Lee SoftRestaurant cada 10 segundos y solo manda a la nube lo que cambió: las cuentas abiertas se ven casi al instante.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
