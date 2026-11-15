@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.5.0",
-    "fecha": "2026-11-11",
-    "notas": "Productos vendidos con costo, entradas y salidas de dinero en el corte e historial de cortes y ventas a pedido desde el portal.",
+    "version": "0.6.0",
+    "fecha": "2026-11-14",
+    "notas": "Monitor de ventas en tiempo real como el de SoftRestaurant (cuentas abiertas y pagadas, tipo de servicio, áreas y comensales).",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
