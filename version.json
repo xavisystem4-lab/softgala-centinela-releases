@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.6.5",
-    "fecha": "2026-11-14",
-    "notas": "Lee SoftRestaurant cada 10 segundos y solo manda a la nube lo que cambió: las cuentas abiertas se ven casi al instante.",
+    "version": "0.6.6",
+    "fecha": "2026-11-16",
+    "notas": "Ventana de aviso en la PC cuando hay una versión nueva (con botón para actualizar). Monitor de ventas con formas de pago e historial de 4 meses para ver ventas por periodo.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
