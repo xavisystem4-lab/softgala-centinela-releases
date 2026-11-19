@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.6.7",
+    "version": "0.6.8",
     "fecha": "2026-11-19",
-    "notas": "Envía cada producto cancelado (folio, mesa, producto, motivo, quién canceló y hora) para verlos en Alertas y en Cancelaciones.",
+    "notas": "Corrige la lectura de productos cancelados (solo usa tablas con permiso de lectura); los motivos salen del texto de SoftRestaurant.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
