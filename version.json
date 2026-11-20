@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.7.2",
+    "version": "0.7.3",
     "fecha": "2026-11-20",
-    "notas": "MUY IMPORTANTE: protege la configuración del conector con la clave del administrador (nadie más puede cambiar el token ni la conexión) y mejora el diseño. Actualiza en cuanto puedas.",
+    "notas": "MUY IMPORTANTE: nuevo diseño del conector (panel de estado, resumen de la conexión y registro a color, en modo claro y oscuro) y configuración protegida con la clave del administrador. Actualiza en cuanto puedas.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe",
     "importante": true
   },
