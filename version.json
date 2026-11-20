@@ -1,9 +1,9 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.6.8",
-    "fecha": "2026-11-19",
-    "notas": "Corrige la lectura de productos cancelados (solo usa tablas con permiso de lectura); los motivos salen del texto de SoftRestaurant.",
+    "version": "0.6.9",
+    "fecha": "2026-11-20",
+    "notas": "El botón para actualizar parpadea en amarillo en la ventana de aviso y en la ventana del conector cuando hay una versión nueva.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
