@@ -1,16 +1,16 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.7.8",
+    "version": "0.7.9",
     "fecha": "2026-11-20",
     "notas": "MUY IMPORTANTE: nuevo diseño del conector (panel de estado, resumen de la conexión y registro a color, en modo claro y oscuro), configuración protegida con la clave del administrador y nuevo selector de apariencia. Actualiza en cuanto puedas.",
     "descarga": "https://raw.githubusercontent.com/xavisystem4-lab/softgala-centinela-releases/main/conector/SoftGala-Centinela-Conector.exe",
     "importante": true
   },
   "proveedor": {
-    "version": "0.4.3",
+    "version": "0.4.4",
     "fecha": "2026-11-20",
-    "notas": "Nuevo selector de apariencia (claro, oscuro, según Windows); el cambio de tema es inmediato.",
+    "notas": "Nuevo selector de apariencia y botones legibles en el tema oscuro.",
     "descarga": "https://raw.githubusercontent.com/xavisystem4-lab/softgala-centinela-releases/main/proveedor/SoftGala-Centinela-Proveedor.exe"
   },
   "portal": {
