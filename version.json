@@ -1,15 +1,15 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.6.9",
+    "version": "0.7.0",
     "fecha": "2026-11-20",
-    "notas": "El botón para actualizar parpadea en amarillo en la ventana de aviso y en la ventana del conector cuando hay una versión nueva.",
+    "notas": "La configuración queda protegida: el token, la conexión a SoftRestaurant, detener y desinstalar solo se pueden cambiar con la clave de SoftGala.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
   },
   "proveedor": {
-    "version": "0.3.0",
-    "fecha": "2026-11-11",
-    "notas": "Logo del cliente: súbelo con «Logo del cliente» y aparece en su portal. Editar usuario del portal.",
+    "version": "0.4.0",
+    "fecha": "2026-11-20",
+    "notas": "Nueva sección «Clave del conector» para proteger la configuración de los conectores.",
     "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/proveedor/SoftGala-Centinela-Proveedor.exe"
   },
   "portal": {
