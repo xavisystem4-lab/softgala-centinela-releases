@@ -1,10 +1,11 @@
 {
   "producto": "SoftGala Centinela",
   "conector": {
-    "version": "0.7.1",
+    "version": "0.7.2",
     "fecha": "2026-11-20",
-    "notas": "Botón verde «Desbloquear» siempre visible en la barra de configuración protegida.",
-    "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe"
+    "notas": "MUY IMPORTANTE: protege la configuración del conector con la clave del administrador (nadie más puede cambiar el token ni la conexión) y mejora el diseño. Actualiza en cuanto puedas.",
+    "descarga": "https://github.com/xavisystem4-lab/softgala-centinela-releases/raw/main/conector/SoftGala-Centinela-Conector.exe",
+    "importante": true
   },
   "proveedor": {
     "version": "0.4.0",
